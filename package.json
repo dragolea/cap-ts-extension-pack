@@ -3,16 +3,23 @@
   "publisher": "dragolea",
   "displayName": "CAP TS extension pack",
   "description": "SAP CAP TypeScript - VSCode best extensions helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dragolea/cap-ts-extension-pack.git"
   },
+  "icon": "./images/icon.png",
   "engines": {
     "vscode": "^1.89.0"
   },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "SAP CAP",
+    "CAP",
+    "CAP TypeScript",
+    "SAP CAP VSCode extension pack"
   ],
   "extensionPack": [
     "aaron-bond.better-comments",
