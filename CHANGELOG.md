@@ -10,3 +10,7 @@ All notable changes to the "cap-ts-extension-pack" extension pack will be docume
 
 - Added icon
 - Added MIT license
+
+## 0.0.3
+
+- Added few items as example to the README.md

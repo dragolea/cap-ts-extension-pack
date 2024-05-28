@@ -3,12 +3,12 @@
   "publisher": "dragolea",
   "displayName": "CAP TS extension pack",
   "description": "SAP CAP TypeScript - VSCode best extensions helpers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dragolea/cap-ts-extension-pack.git"
   },
-  "icon": "./images/icon.png",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -41,7 +41,6 @@
     "humao.rest-client",
     "janisdd.vscode-edit-csv",
     "mechatroner.rainbow-csv",
-    "mike-co.import-sorter",
     "mikestead.dotenv",
     "ms-azuretools.vscode-docker",
     "ms-vscode-remote.remote-containers",
@@ -75,8 +74,6 @@
     "usernamehw.errorlens",
     "visualstudioexptteam.intellicode-api-usage-examples",
     "visualstudioexptteam.vscodeintellicode",
-    "vitest.explorer",
-    "vscodevim.vim",
     "waderyan.gitblame",
     "wayou.vscode-todo-highlight",
     "yoavbls.pretty-ts-errors",
