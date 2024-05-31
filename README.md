@@ -22,6 +22,10 @@ Welcome to the **SAP CAP TypeScript VSCode** extensions pack.
     - [`npm Outdated`](#npm-outdated)
     - [`Pretty TypeScript Errors`](#pretty-typescript-errors)
     - [`Rainbow CSV`](#rainbow-csv)
+    - [`Indent-Rainbow`](#indent-rainbow)
+    - [`TODO HighlightTOD`](#todo-highlighttod)
+    - [`Path Intellisense`](#path-intellisense)
+    - [`and many more ...`](#and-many-more-)
   - [Authors](#authors)
 
 ## Extensions
@@ -75,6 +79,30 @@ Align columns with spaces and Shrink (trim spaces from fields).
 Multi-cursor column edit.
 
 ![Rainbow](./images/rainbow-csv.png)
+
+### `Indent-Rainbow`
+
+This extension colorizes the indentation in front of your text, alternating four different colors on each step. Some may find it helpful in writing code for Python, Nim, Yaml, and probably even filetypes that are not indentation dependent.
+
+![Rainbow](./images/rainbow-indent.png)
+
+### `TODO HighlightTOD`
+
+Highlight TODO, FIXME and other annotations within your code.
+
+Sometimes you forget to review the TODOs you've added while coding before you publish the code to production. So I've been wanting an extension for a long time that highlights them and reminds me that there are notes or things not done yet.
+
+Hope this extension helps you as well.
+
+![TODO](./images/todo.png)
+
+### `Path Intellisense`
+
+Visual Studio Code plugin that autocompletes filenames.inte
+
+![TODO](./images/path_intellisense.gif)
+
+### `and many more ...`
 
 ## Authors
 
