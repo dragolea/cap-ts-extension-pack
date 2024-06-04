@@ -3,7 +3,7 @@
   "publisher": "dragolea",
   "displayName": "CAP TS extension pack",
   "description": "SAP CAP TypeScript - VSCode best extensions helpers",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dragolea/cap-ts-extension-pack.git"
@@ -29,8 +29,6 @@
     "bierner.jsdoc-markdown-highlighting",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
-    "crystal-spider.jsdoc-generator",
-    "davidanson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "donjayamanne.githistory",
     "dotjoshjohnson.xml",
@@ -56,9 +54,7 @@
     "mskelton.npm-outdated",
     "oderwat.indent-rainbow",
     "orta.vscode-jest",
-    "qwtel.sqlite-viewer",
     "redhat.vscode-yaml",
-    "sapos.yeoman-ui",
     "saposs.app-studio-remote-access",
     "saposs.app-studio-toolkit",
     "saposs.vscode-ui5-language-assistant",
@@ -76,7 +72,6 @@
     "visualstudioexptteam.vscodeintellicode",
     "waderyan.gitblame",
     "wayou.vscode-todo-highlight",
-    "yoavbls.pretty-ts-errors",
-    "yzhang.markdown-all-in-one"
+    "yoavbls.pretty-ts-errors"
   ]
 }
